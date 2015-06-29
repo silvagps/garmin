@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><Profile><Settings>
+<SerialInterface>1</SerialInterface>
+<Tones>2</Tones>
+<MsgTone>22</MsgTone>
+<KeyTone>3</KeyTone>
+<TurnTone>44</TurnTone>
+<EarlyTone>43</EarlyTone>
+<AlarmTone>6</AlarmTone>
+<AppraochTone>6</AppraochTone>
+<LeaveTone>5</LeaveTone>
+<WarnTone>5</WarnTone>
+<ProximityTones>1</ProximityTones>
+<BacklightTimeout>60</BacklightTimeout>
+<BatterySave>0</BatterySave>
+<BkgColorRed>197</BkgColorRed>
+<BkgColorGreen>197</BkgColorGreen>
+<BkgColorBlue>197</BkgColorBlue>
+<NightBkgColorRed>131</NightBkgColorRed>
+<NightBkgColorGreen>131</NightBkgColorGreen>
+<NightBkgColorBlue>131</NightBkgColorBlue>
+<ColorMode>2</ColorMode>
+<DayHgltColor>0</DayHgltColor>
+<NightHgltColor>0</NightHgltColor>
+<PageSequenceSpeed>2</PageSequenceSpeed>
+<MenuStyle>0</MenuStyle>
+<PageSequence>
+  <PsItem>3</PsItem>
+  <PsItem>4</PsItem>
+  <PsItem>5</PsItem>
+  <PsItem>6</PsItem>
+  <PsItem>7</PsItem>
+  <PsItem>26</PsItem>
+  <PsItem>13</PsItem>
+  <PsItem>16</PsItem>
+  <PsItem>9</PsItem>
+  <PsItem>14</PsItem>
+  <PsItem>8</PsItem>
+  <PsItem>11</PsItem>
+  <PsItem>18</PsItem>
+</PageSequence>
+<MainMenu>
+  <MmItem>10</MmItem>
+  <MmItem>12</MmItem>
+  <MmItem>15</MmItem>
+  <MmItem>17</MmItem>
+  <MmItem>19</MmItem>
+  <MmItem>28</MmItem>
+  <MmItem>21</MmItem>
+  <MmItem>20</MmItem>
+  <MmItem>23</MmItem>
+  <MmItem>22</MmItem>
+  <MmItem>25</MmItem>
+  <MmItem>24</MmItem>
+  <MmItem>27</MmItem>
+</MainMenu>
+<SetupMenu>
+  <StpItem>0</StpItem>
+  <StpItem>1</StpItem>
+  <StpItem>15</StpItem>
+  <StpItem>2</StpItem>
+  <StpItem>3</StpItem>
+  <StpItem>4</StpItem>
+  <StpItem>16</StpItem>
+  <StpItem>5</StpItem>
+  <StpItem>6</StpItem>
+  <StpItem>7</StpItem>
+  <StpItem>8</StpItem>
+  <StpItem>9</StpItem>
+  <StpItem>10</StpItem>
+  <StpItem>11</StpItem>
+  <StpItem>12</StpItem>
+  <StpItem>13</StpItem>
+  <StpItem>14</StpItem>
+  <StpItem>17</StpItem>
+</SetupMenu>
+<FindMenu>
+  <FmItem>0</FmItem>
+  <FmItem>28</FmItem>
+  <FmItem>1</FmItem>
+  <FmItem>34</FmItem>
+  <FmItem>30</FmItem>
+  <FmItem>31</FmItem>
+  <FmItem>35</FmItem>
+  <FmItem>37</FmItem>
+  <FmItem>17</FmItem>
+  <FmItem>36</FmItem>
+  <FmItem>32</FmItem>
+  <FmItem>33</FmItem>
+  <FmItem>29</FmItem>
+  <FmItem>3</FmItem>
+  <FmItem>4</FmItem>
+  <FmItem>2</FmItem>
+  <FmItem>11</FmItem>
+  <FmItem>5</FmItem>
+  <FmItem>6</FmItem>
+  <FmItem>7</FmItem>
+  <FmItem>9</FmItem>
+  <FmItem>10</FmItem>
+  <FmItem>8</FmItem>
+  <FmItem>12</FmItem>
+  <FmItem>13</FmItem>
+  <FmItem>14</FmItem>
+  <FmItem>15</FmItem>
+  <FmItem>21</FmItem>
+  <FmItem>22</FmItem>
+  <FmItem>23</FmItem>
+  <FmItem>24</FmItem>
+  <FmItem>25</FmItem>
+  <FmItem>26</FmItem>
+  <FmItem>27</FmItem>
+  <FmItem>18</FmItem>
+  <FmItem>19</FmItem>
+  <FmItem>20</FmItem>
+  <FmItem>16</FmItem>
+</FindMenu>
+<MapOrientation>0</MapOrientation>
+<GuidanceText>2</GuidanceText>
+<AutoZoom>1</AutoZoom>
+<MapDetail>2</MapDetail>
+<ShadedReliefEnabled>2</ShadedReliefEnabled>
+<LockOnRoad>0</LockOnRoad>
+<GoToLine>0</GoToLine>
+<MapPointsZoom>1</MapPointsZoom>
+<WaypointsZoom>1</WaypointsZoom>
+<StreetLabelZoom>1</StreetLabelZoom>
+<LandCoverZoom>1</LandCoverZoom>
+<MapPointsText>0</MapPointsText>
+<WaypointsText>0</WaypointsText>
+<StreetLabelText>1</StreetLabelText>
+<LandCoverText>0</LandCoverText>
+<MarineColors>0</MarineColors>
+<SpotSoundings>1</SpotSoundings>
+<LightSectors>1</LightSectors>
+<MarineSymbolSet>0</MarineSymbolSet>
+<SafetyShadingEnable>0</SafetyShadingEnable>
+<SafetyShadingDepth>0.000000</SafetyShadingDepth>
+<TrackLog>1</TrackLog>
+<TrackLogZoom>1</TrackLogZoom>
+<TrackRecordMethod>0</TrackRecordMethod>
+<TrackInterval>10.000000</TrackInterval>
+<ActivityVehicle>6</ActivityVehicle>
+<ActivitySubType>255</ActivitySubType>
+<AutoSettings>14</AutoSettings>
+<MotorcycleSettings>2</MotorcycleSettings>
+<CyclingSettings>3</CyclingSettings>
+<TourSettings>19</TourSettings>
+<MtnbkingSettings>147</MtnbkingSettings>
+<PedestrianSettings>667</PedestrianSettings>
+<HikingSettings>659</HikingSettings>
+<MountaineeringSettings>659</MountaineeringSettings>
+<OffroadSettings>530</OffroadSettings>
+<PromptedRteCalc>1</PromptedRteCalc>
+<AnchorDrag>0</AnchorDrag>
+<AnchorDragDist>0.000000</AnchorDragDist>
+<OffCourse>0</OffCourse>
+<OffCourseDist>500.000000</OffCourseDist>
+<DeepWater>0</DeepWater>
+<DeepWaterDpth>30.480371</DeepWaterDpth>
+<ShallowWater>0</ShallowWater>
+<ShallowWaterDpth>6.096074</ShallowWaterDpth>
+<TimeFormat>0</TimeFormat>
+<DstMode>0</DstMode>
+<OtherTimeZone>0</OtherTimeZone>
+<TimeZone>28</TimeZone>
+<DistanceUnits>9</DistanceUnits>
+<ElevationUnits>35</ElevationUnits>
+<DepthUnits>11</DepthUnits>
+<TemperatureUnits>37</TemperatureUnits>
+<PressureUnits>27</PressureUnits>
+<HeadingDisplay>0</HeadingDisplay>
+<NorthReference>17</NorthReference>
+<MagneticVariation>0.000000</MagneticVariation>
+<Compass>0</Compass>
+<AltimeterAutoCal>1</AltimeterAutoCal>
+<BarometerMode>10</BarometerMode>
+<PressureTrend>0</PressureTrend>
+<AltimeterPlotType>1</AltimeterPlotType>
+<MapShowDataFields>0</MapShowDataFields>
+<MapShowDataFieldsNav>0</MapShowDataFieldsNav>
+<MapDataField1>13</MapDataField1>
+<MapDataField2>16</MapDataField2>
+<MapDataField3>12</MapDataField3>
+<MapDataField4>23</MapDataField4>
+<CmpDataField1>13</CmpDataField1>
+<CmpDataField2>5</CmpDataField2>
+<CmpDataField3>9</CmpDataField3>
+<CmpDataField4>7</CmpDataField4>
+<TrpWdgtType>0</TrpWdgtType>
+<CmpWdgtType>4</CmpWdgtType>
+<MapNavWdgtType>0</MapNavWdgtType>
+<MapNoNavWdgtType>0</MapNoNavWdgtType>
+<TrpCnfgField1>13</TrpCnfgField1>
+<TrpCnfgField2>19</TrpCnfgField2>
+<TrpCnfgField3>28</TrpCnfgField3>
+<TrpCnfgField4>9</TrpCnfgField4>
+<TrpCnfgField5>3</TrpCnfgField5>
+<TrpCnfgField6>10</TrpCnfgField6>
+<TrpBigCnfgMode>0</TrpBigCnfgMode>
+<TrpBigCnfgField1>13</TrpBigCnfgField1>
+<TrpBigCnfgField2>24</TrpBigCnfgField2>
+<TrpWdgtBigCnfgField>23</TrpWdgtBigCnfgField>
+<TrpWdgtSmlCnfgField1>12</TrpWdgtSmlCnfgField1>
+<TrpWdgtSmlCnfgField2>23</TrpWdgtSmlCnfgField2>
+<TrpWdgtSmlCnfgField3>5</TrpWdgtSmlCnfgField3>
+<TrpWdgtSmlCnfgField4>10</TrpWdgtSmlCnfgField4>
+<ElevDataField1>39</ElevDataField1>
+<ElevDataField2>12</ElevDataField2>
+<UGridCat>0</UGridCat>
+<UGridSubCat>0</UGridSubCat>
+<UGridFE>1000000.000000</UGridFE>
+<UGridFN>100000.000000</UGridFN>
+<UGridK0>0.999600</UGridK0>
+<UGridLono>-1.658063</UGridLono>
+<UGridFld7>0.000000</UGridFld7>
+<UGridFld8>0.000000</UGridFld8>
+<UGridFld9>0.000000</UGridFld9>
+<UGridLatPt2>0.000000</UGridLatPt2>
+<UGridLonPt2>0.000000</UGridLonPt2>
+<UDatumDF>0.000000</UDatumDF>
+<UDatumDA>0.000000</UDatumDA>
+<UDatumDX>0.000000</UDatumDX>
+<UDatumDY>0.000000</UDatumDY>
+<UDatumDZ>0.000000</UDatumDZ>
+<PosnFormat>0</PosnFormat>
+<DatumIdx>108</DatumIdx>
+<SpheroidIdx>18</SpheroidIdx>
+<CustomMaps>1</CustomMaps>
+<BirdsEye>1</BirdsEye>
+<Gamma>
+<GammaID>8</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>7</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>6</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>5</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>4</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>2</GammaID>
+<GammaVal>6.000000</GammaVal>
+<GammaID>0</GammaID>
+<GammaVal>6.000000</GammaVal>
+</Gamma>
+<SymbolGroup>8</SymbolGroup>
+<HRSensorEnabled>0</HRSensorEnabled>
+<CadenceSensorEnabled>0</CadenceSensorEnabled>
+<TempeEnabled>0</TempeEnabled>
+<ChirpSearchingEnabled>0</ChirpSearchingEnabled>
+<GeocacheStyle>2</GeocacheStyle>
+<GeocacheStartPage>0</GeocacheStartPage>
+<WaypointSorting>0</WaypointSorting>
+</Settings></Profile>
