@@ -5,3 +5,4 @@
 <display = 0>
 
 <!-- Type your message on the next line -->
+This device is tracked. Please contact tonymorris@gmail.com
